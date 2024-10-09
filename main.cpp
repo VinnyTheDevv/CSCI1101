@@ -8,5 +8,8 @@ int main() {
     cin >> age;
 
     cout << "your age is " << age << " years old";
+
+    cout << "your age is " << age << " years old";
     return 0;
+
 }
