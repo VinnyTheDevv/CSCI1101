@@ -9,7 +9,7 @@ int main() {
 
     cout << "your age is " << age << " years old";
 
-    cout << "Let's do a commit";
+    cout << "Let's do a commit" << endl;
     return 0;
 
 }
